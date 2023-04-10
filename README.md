@@ -12,4 +12,4 @@
 * БЭМ Nested
 * Псевдоклассы CSS
 
-[Страница в GIT PAGE](https://kuhiku-hub.github.io/Russian-project/}
+# [Страница в GIT PAGE](https://kuhiku-hub.github.io/Russian-project/}
