@@ -1,6 +1,6 @@
 /*STYLESHEET*/
-@import url(/vendor/normalize.css);
-@import url(/vendor/fonts.css);
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
 /*БЛОК PAGE*/
 @import url(../blocks/page/page.css);
 /*БЛОК HEADER*/
