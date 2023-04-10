@@ -11,3 +11,5 @@
 * Адаптивная верстка под размеры экранов 1280px, 1024px, 768px, 320px
 * БЭМ Nested
 * Псевдоклассы CSS
+
+## [Страница в GIT PAGE](https://kuhiku-hub.github.io/Russian-project/)
