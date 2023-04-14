@@ -1,21 +1,10 @@
 .header__lang-links {
   margin:0;
   padding: 0;
-  margin:auto 48px  auto auto;
   list-style: none;
   display:flex;
   flex-direction: row;
-  justify-content: end;
 
 }
 
-@media screen and (max-width: 768px) {
-  .header__lang-links {
-    margin-right:24px;
-  }
-}
-@media screen and (max-width: 320px) {
-  .header__lang-links {
-    margin:30px 16px auto auto;
-  }
-}
+
