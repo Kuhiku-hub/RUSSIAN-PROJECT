@@ -15,4 +15,4 @@
 ## [Страница в GIT PAGE](https://kuhiku-hub.github.io/Russian-project/)
 
 - ![ВНИМАНИЕ ВО ИЗБЕЖАНИЕ ОШИБОК 404 РЕКОМЕНДУЕТСЯ ЗАПУСКАТЬ САЙТ В РЕЖИМЕ ИНКОГНИТО] `#f03c15`
-- ![#f03c15]dfsadada `#f03c15`
+- ![#f03c15](dsdasd) `#f03c15`
