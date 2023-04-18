@@ -1,17 +1,30 @@
 /* 1280 */
 .intro {
   margin: 0 auto;
-  max-width:690px;
+  max-width:720px;
+  width:690px;
+  min-width:288px;
+  width:100%;
+  margin:114px 92px 0 100px;
+  display:flex;
+  flex-direction:column;
+}
+@media screen and (max-width: 1024px) {
+  .intro {
+    margin:114px 92px 0 48px;
+  }
 }
 /* 768 */
 @media screen and (max-width: 768px) {
   .intro {
     max-width:720px;
+    margin:110px 88px 24px 24px;
   }
 }
 
 @media screen and (max-width: 480px) {
   .intro {
     max-width:288px;
+    margin:86px 64px 16px 16px;
   }
 }

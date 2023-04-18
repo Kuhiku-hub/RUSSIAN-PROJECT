@@ -11,5 +11,6 @@
   background-color: #2A2C2F;
   font-family: "Inter", "Arial ", sans-serif;
   box-sizing: border-box;
-
+  overflow-y: scroll;
+  overflow-x: hidden;
 }
