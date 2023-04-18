@@ -12,7 +12,7 @@
   padding:28px 0 0 0;
   max-width:1184px;
   min-width:288px;
-  max-height:52px;
+  min-height:52px;
 }
 @media screen and (max-width: 1184px) {
   .header__container {
@@ -27,6 +27,6 @@
 @media screen and (max-width: 320px) {
   .header__container {
     padding:16px 16px 0 16px;
-    max-height:42px;
+    min-height:42px;
   }
 }

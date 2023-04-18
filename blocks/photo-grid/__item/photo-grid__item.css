@@ -5,3 +5,18 @@
   min-width: 284px;
   max-width: 100%;
 }
+@media screen and (max-width: 1171px) {
+  .photo-grid__item {
+    max-width:300px;
+  }
+}
+@media screen and (max-width: 976px) {
+  .photo-grid__item {
+    max-width:352px;
+  }
+}
+@media screen and (max-width: 741px) {
+  .photo-grid__item {
+    max-width:288px;
+  }
+}
