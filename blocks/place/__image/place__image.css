@@ -3,24 +3,25 @@
   margin: 0;
   padding: 0;
   max-width: 480px;
+  width:100%;
   height: auto;
 }
 
 @media screen and (max-width: 1024px) {
   .place__image {
-    width: 42.96875vw;
+    max-width:440px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .place__image {
-    width: 44.2708333vw;
+    max-width:340px;
   }
 }
 
 @media screen and (max-width: 536px) {
   .place__image {
-    width: 100vw;
+    max-width: 100%;
     margin-bottom: 32px;
     object-fit: cover;
   }
