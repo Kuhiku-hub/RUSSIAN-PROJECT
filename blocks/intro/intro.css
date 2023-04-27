@@ -22,7 +22,7 @@
     margin:88px auto 88px 24px;
   }
 }
-@media screen and (max-width: 742px) {
+@media screen and (max-width: 760px) {
   .intro {
     margin-left:0;
   }

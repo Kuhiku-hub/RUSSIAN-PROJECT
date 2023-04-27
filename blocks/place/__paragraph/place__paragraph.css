@@ -22,8 +22,8 @@
   }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 536px) {
   .place__paragraph {
-    padding-left: 16px;
+    margin:0 16px 25px 16px;
   }
 }

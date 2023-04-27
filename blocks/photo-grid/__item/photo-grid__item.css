@@ -1,7 +1,7 @@
 /* 1280 */
 .photo-grid__item {
-  margin: auto;
-  padding: 0;
-  min-width: 284px;
-  max-width: 100%;
+  margin:0;
+  padding:0;
+  min-width:288px;
+  max-width:100%;
 }
