@@ -16,7 +16,7 @@
   }
 }
 /* 768 */
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 784px) {
   .intro {
     max-width:720px;
     margin:88px auto 88px 24px;

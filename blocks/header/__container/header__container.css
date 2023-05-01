@@ -8,10 +8,9 @@
   justify-content:space-between;
   padding:28px 0 0 0;
   max-width:1184px;
-  min-height:288px;
   min-height:52px;
 }
-@media screen and (max-width: 1184px) {
+@media screen and (max-width: 1196px) {
   .header__container {
     padding:28px 48px 0 48px;
   }
@@ -23,6 +22,7 @@
 }
 @media screen and (max-width: 336px) {
   .header__container {
+    max-width:288px;
     padding:16px 16px 0 16px;
     min-height:42px;
   }
