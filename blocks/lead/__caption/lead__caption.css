@@ -7,7 +7,7 @@
   line-height: 14px;
   letter-spacing: 1.5px;
   text-transform: uppercase;
-  }
+}
 
 /* 768 */
 @media screen and (max-width: 768px) {
@@ -19,6 +19,6 @@
 @media screen and (max-width: 480px) {
   .lead__caption {
     margin-left: 16px;
-    max-width:288px;
+    max-width: 288px;
   }
 }

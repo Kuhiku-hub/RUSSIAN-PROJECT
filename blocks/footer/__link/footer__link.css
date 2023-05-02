@@ -10,14 +10,13 @@
   line-height: 18px;
   list-style: none;
   text-decoration-line: none;
-  color: #FFF;
+  color: #fff;
   transition: 0.3s ease-in;
 }
 
 .footer__link:hover {
   opacity: 0.8;
 }
-
 
 @media screen and (max-width: 480px) {
   .footer__link {

@@ -2,11 +2,12 @@
   margin: 0;
   padding: 0;
   align-self: flex-end;
+  max-width: 85%;
 }
 
 @media screen and (max-width: 536px) {
   .place__website {
     margin: 0 auto 32px 16px;
-    max-width:288px;
+    max-width: 288px;
   }
 }

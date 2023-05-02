@@ -1,30 +1,29 @@
 /* 1280 */
 .places {
-  margin:0 auto 92px auto;
+  margin: 0 auto 92px auto;
   padding: 0;
-  max-width:984px;
-  min-width:320px;
-  width:100%
+  max-width: 984px;
+  min-width: 320px;
+  width: 100%;
 }
 
 /* 1024 */
 @media screen and (max-width: 1095px) {
   .places {
-    max-width:928px;
-    margin:0 48px 92px 48px;
+    max-width: 94%;
+    margin: 0 48px 92px 48px;
   }
 }
 
 /* 768 */
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 808px) {
   .places {
-    max-width:720px;
-    margin:0 24px 90px 24px;
+    margin: 0 24px 90px 24px;
   }
 }
 @media screen and (max-width: 760px) {
   .places {
-    max-width:720px;
-    margin:0 0 66px 0;
+    margin: 0 0 66px 0;
+    max-width:100%;
   }
 }

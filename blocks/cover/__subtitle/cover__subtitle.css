@@ -9,7 +9,7 @@
   font-size: 18px;
   line-height: 22px;
   text-align: center;
-  z-index:2;
+  z-index: 2;
 }
 
 @media screen and (max-width: 480px) {
@@ -18,7 +18,7 @@
     font-size: 14px;
   }
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 400px) {
   .cover__subtitle {
     line-height: 114%;
   }
